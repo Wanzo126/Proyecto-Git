@@ -32,6 +32,9 @@ int main()
             scanf("%d", &num1);
             printf("Ingrese segundo numero: ");
             scanf("%d", &num2);
+            resultado = restar(num1,num2);
+            printf("%d - %d = %d", num1,num2,resultado);
+
             break;
 
         case 3:
@@ -83,6 +86,9 @@ void mostrar_menu()
 }
 
 // Crear las demás funciones aquí
+int restar(int a, int b){
+    return a-b;
+}
 int sumar(int a, int b){
     return a+b;
 }
