@@ -20,7 +20,6 @@ Este proyecto consiste en el desarrollo colaborativo de una calculadora básica 
 - ✅ **División** 
 
 ### Desafíos Encontrados
-[Describir los principales desafíos que enfrentó el equipo y cómo los resolvieron]
-
+-Mi unico desafio fue colocar bien las ramas
 ---
-**Fecha de Entrega:** [DD/MM/AAAA]
+**Fecha de Entrega:** [05/12/2025]
