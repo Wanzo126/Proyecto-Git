@@ -42,6 +42,8 @@ int main()
             scanf("%d", &num1);
             printf("Ingrese segundo numero: ");
             scanf("%d", &num2);
+            resultado = multiplicar(num1,num2);
+            printf("%d * %d = %d", num1,num2,resultado);
             break;
 
         case 4:
@@ -97,5 +99,10 @@ int restar(int a, int b){
 int sumar(int a, int b){
     return a+b;
 }
+int multiplicar(int a, int b){
+    return a*b;
+}
+
+
 
 
